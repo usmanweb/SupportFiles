@@ -3,7 +3,6 @@ import os
 import skimage.io
 import numpy as np
 
-#path_labels ='/home/mohbat/RoadSegmentation/DataSet/Mapillary/mapillary-vistas-dataset_public_v1.0/validation/instances/'
 IMAGE_HEIGHT = 256
 IMAGE_WIDTH = 256
 i = 0
